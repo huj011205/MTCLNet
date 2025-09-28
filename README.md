@@ -6,15 +6,12 @@ Segmentation
 by Jiale Hu, Yuze Hu, Changfang Chen, Yushu Zhang, Rensong Liu, and Zhaoyang Liu. 
 
 ### News
+
 ```
-<01.07.2022> Our paper entitled "MTCL:Multi-Task Consistency Learning for Semi-Supervised 3D Medical Image
-Segmentation" has been accepted by Medical Image Analysis;
-```
-```
-<18.04.2022> We provided our pre-trained models on the LA and Pancreas-CT ;
+<28.09.2025> We provided our pre-trained models on the LA and Pancreas-CT ;
 ```
 ```
-<16.04.2022> We released the codes;
+<28.09.2025> We released the codes;
 ```
 ### Introduction
 This repository is for our paper: '[MTCL:Multi-Task Consistency Learning for Semi-Supervised 3D Medical Image Segmentation]
