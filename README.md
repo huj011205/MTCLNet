@@ -5,9 +5,9 @@
 Segmentation
 by Jiale Hu, Yuze Hu, Changfang Chen, Yushu Zhang, Rensong Liu, and Zhaoyang Liu. 
 
-###code owner
+### Code owner
 
-``Yuze Hu`
+```Yuze Hu
 ```
 
 ### News
